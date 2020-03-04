@@ -1,0 +1,37 @@
+.container-fluid{
+    padding: 3rem;
+    background-color: yellow;
+    
+}
+.container {
+     background-color: darksalmon;
+}
+header {
+    background-color: darkred;
+}
+nav {
+    background-color: green; 
+}
+main {
+    background-color: aqua;
+}
+.promo {
+    background-color: darkorange;
+}
+nav, 
+footer {
+    height: 50px;
+}
+main, 
+aside {
+     height: 200px;
+}
+  @media ( min-width: 500px) {
+      p {
+          color: pink;
+          font-size: 6em;
+
+      }
+  
+  
+  
